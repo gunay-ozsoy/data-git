@@ -8,3 +8,9 @@ def my_name_is() -> str:
     Returns a string with a name.
     '''
     return "gunay-ozsoy"
+
+def my_buddy_is() -> str:
+    '''
+    Returns a string with a buddy's name.
+    '''
+    return "tugaydmrl"
